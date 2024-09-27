@@ -1,0 +1,10 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    user-select: none;
+}
+.nav-item .nav-link{
+    font-size: 19px;
+}
+.nav-item .nav-link:hover{
+color: rgb(255, 255, 255);
+}
